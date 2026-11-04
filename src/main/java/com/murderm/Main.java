@@ -14,7 +14,7 @@ public class Main extends Application {
     @Override
     public void start(Stage stage) throws Exception {
 
-        // SETUP - main Scene
+        // SETUP - main Scene hallo
         int width = 800;
         int height = 600;
         SceneHandler sceneHandler = new SceneHandler(width, height);
